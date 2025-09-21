@@ -26,3 +26,7 @@
 	path = deliveryportal/server
 	url = https://github.com/hainweb/ecom-deliveryportal-server.git
 	branch = master
+[submodule "userside/frontend"]
+	path = userside/frontend
+	url = https://github.com/hainweb/ecom-userside-frontend.git
+	branch = master
