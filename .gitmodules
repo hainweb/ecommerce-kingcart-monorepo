@@ -1,0 +1,28 @@
+[submodule "userside/server"]
+	path = userside/server
+	url = https://github.com/hainweb/ecom-userside-server.git
+	branch = master
+[submodule "merchant/frontend"]
+	path = merchant/frontend
+	url = https://github.com/hainweb/ecom-merchant-frontend.git
+	branch = master
+[submodule "merchant/server"]
+	path = merchant/server
+	url = https://github.com/hainweb/ecom-merchant-server.git
+	branch = master
+[submodule "superadmin/frontend"]
+	path = superadmin/frontend
+	url = https://github.com/hainweb/ecom-superadmin-frontend.git
+	branch = master
+[submodule "superadmin/server"]
+	path = superadmin/server
+	url = https://github.com/hainweb/ecom-superadmin-server.git
+	branch = master
+[submodule "deliveryportal/frontend"]
+	path = deliveryportal/frontend
+	url = https://github.com/hainweb/ecom-deliveryportal-frontend.git
+	branch = master
+[submodule "deliveryportal/server"]
+	path = deliveryportal/server
+	url = https://github.com/hainweb/ecom-deliveryportal-server.git
+	branch = master
